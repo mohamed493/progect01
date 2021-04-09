@@ -1,0 +1,187 @@
+.one 
+{
+	color:#FFF;
+	font-size:50px;
+	background-image:url(annie-spratt-unsplash.jpg);
+	background-size:500px 500px;
+	height:490px;
+	width:465px;
+	background-repeat:no-repeat;
+	float:left;
+	margin:0px;
+	margin-top:2px;
+	margin-left:30px;
+	outline:32px;
+	outline-color:#724355;
+	outline-style:solid;
+/*margin-block-end:0;*/
+}
+#w{
+	background-image:url(joanna-kosinska-unsplash.jpg);
+}
+#x{
+	background-image:url(sharon-mccutcheon-unsplash.jpg);
+}
+#m{
+	background-image:url(thumbnail-1.jpg)
+}
+#r{
+	background-image:url(thumbnail-2.jpg)
+}
+#l{
+	background-image:url(thumbnail-3.jpg)
+}
+
+.one
+{
+	color:pink;
+	font-weight:bold;
+}
+div
+{
+	
+	font-size:50px;
+	color:black;
+	height:400;
+	background:#DDD;
+	background-attachment:scroll;
+	/*background-image:url(1598905577-20-046-D-LO1.jpg); image in the div*/
+	background-position:10% 40%;
+	background-repeat:no-repeat;
+	font-style:italic;
+	border-left-style:solid;
+	border-left-color:red;
+	border-left-width:5px;
+	margin:auto;
+	padding:10px;
+	border:10px solid #676767;
+	margin-top: 12px;
+
+	
+	
+}
+.two{
+	margin:100px;
+	font-size:200%; /*the initial value is 16 so here font is 3*16=48px*/
+	/*font-family:fantasy,Tahoma,"sans-serief",Arial;  the font of the writing */
+	overflow:auto;
+	
+	/*letter-spacing:15px; make spaces between letteres*/
+	/*line-height:2em; change the height of line*/
+	/*text-align:center; make the text in the center*/
+}
+body
+{
+	background-attachment:scroll;
+	background-image:url(1598905577-20-046-D-LO1.jpg);
+	background-repeat:no-repeat;
+	background-position:80% 40%;
+	background-attachment:fixed;
+	margin:auto;
+	margin-top: 30px;
+	/*background-color:#0AA;*/
+	/*z-index:1 ; when you have more than one layer and they have different positions*/
+}
+
+a{
+	color:brown;
+	text-decoration:none;
+	
+}
+a:hover{
+	color:#F00;
+	font-weight:bold;
+	tex-decoration:line-through;
+	text-decoration:underline;
+	
+}
+a:active{
+	color:#080;
+	font-weight:normal;
+	text-decoration:none;
+	
+}
+
+ul{
+	list-style-position:inside;
+}
+ul li{
+	border:1px solid blue;
+	font-size:3em;
+	width:800;
+	background-color:#0FF;
+	border:4px solid #676767;
+	margin:auto;
+}
+
+.mom{
+	border:10px solid #676767;
+	position:relative;
+	text-
+}
+
+button{
+	width:auto;
+	min-width:100px;
+	border:10px solid #676767;
+}
+
+.child{
+	background:yellow;
+	color:#AAA;
+	padding:3px;
+	width:500;
+	height:300;
+	top:-5px;
+	right:0px;
+	margin:0;
+	position:absolute;
+}
+
+.f1{
+	width:100;
+	height:100;
+	float:left
+}
+.right{
+	float:right;
+	width:100;
+	height:100;
+	margin:0;
+}
+#top{
+	clear:both;
+	height:0;
+	margin:0;
+	border:none;
+	background:none;
+	
+}
+
+#k p{
+	float:left;
+}
+srtong{
+	color:black;
+}
+div:first-letter{
+	font-size:100px;
+	font-weight:bold;
+	color:#C0C0C0;
+	color:#FFDF00
+}
+a:before{
+	content:"this is a link dude:";
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
